@@ -23,7 +23,7 @@ print('La variable de prueba contiene: ' + prueba)
 if (variableNumerica == 30):
     prueba = 'variable de prueba'
     print('La variable numerica es igual que 30: ' + str(variableNumerica))
-elif (variable numerica > 30)):
+elif (variableNumerica > 30)):
     print('La variable numerica es menor que 30: ' + str(variableNumerica))
 else:
     print('La variable numerica es mayor que 30: ' + str(variableNumerica))
